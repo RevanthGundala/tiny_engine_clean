@@ -1,5 +1,7 @@
 # Tiny Engine
 
+This is a Diffusion-Based engine that generates new frames without a game engine to simulate DOOM. It uses the ViZDoom openai-gym environment to generate training data from an RL Agent using PPO, and uses a pretrained UNet from stable diffusion + historical frames to generate new frames.
+
 ## Setup and Installation
 
 This project uses `uv` for Python package management.
