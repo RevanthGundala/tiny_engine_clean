@@ -1,9 +1,5 @@
 # Tiny Engine
 
-Currently WIP
-
-This project uses a generative model to predict the next frame of a game based on the current frame and a player's action. It's served via a FastAPI backend and includes an interactive Next.js frontend.
-
 ## Setup and Installation
 
 This project uses `uv` for Python package management.
